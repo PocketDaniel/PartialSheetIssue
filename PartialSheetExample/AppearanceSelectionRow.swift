@@ -24,7 +24,7 @@ struct AppearanceSelectionRow: View {
             
             Text("\(title)")
                 .padding(.leading)
-//                .font(.system(size: 14, weight: .medium))
+                .font(.system(size: 14, weight: .medium))
             
             Spacer()
             
